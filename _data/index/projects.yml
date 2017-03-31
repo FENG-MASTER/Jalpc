@@ -3,19 +3,19 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: 基于地理位置的晚会信息发布互动平台
   i18n: 基于地理位置的晚会信息发布互动平台
-  gh_user: jarrekk
-  repo: DevGroup137781709/Interactive_platform_LBS
-  img: /static/assets/img/landing/jekyll.png
+  gh_user: DevGroup137781709
+  repo: Interactive_platform_LBS
+  img: /static/assets/img/landing/LBS_LOGO.png
   desc: 参加学校银杏黄比赛的时候自主命题的一个项目
 
-- name: LeetCode
+- name: 别踩白块-群魔乱舞版
   i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
-  img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: FENG-MASTER
+  repo: unity-Don-t_Tap_The_White_Tile
+  img: /static/assets/img/landing/black_block_logo.png
+  desc: 模仿别踩白块的个人开发作品,增加了许多新的模式和玩法.
 
-- name: FamilyCODE Wchat
+- name: 手游-RoadMaster
   i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+  img: /static/assets/img/landing/word_map.png
+  desc: 一款资源抢夺类游戏,正在开发中
