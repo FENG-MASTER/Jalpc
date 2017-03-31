@@ -4,7 +4,7 @@
 title: FENG-MASTER的博客
 description: Jack's blog,use Jekyll and github pages.
 keywords: FENG-MASTER,github
-baseurl:/
+baseurl:"/"
 should be 'homepage'
 url: https://feng-master.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
