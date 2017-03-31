@@ -1,18 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: QQ
+  first_name: 空间
+  desc: 空间
+  website: https://user.qzone.qq.com/554286238
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: FENG
+  first_name: MASTER
+  desc: github
+  website: https://github.com/FENG-MASTER
+

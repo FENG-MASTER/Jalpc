@@ -1,12 +1,12 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
+- name: 基于地理位置的晚会信息发布互动平台
+  i18n: 基于地理位置的晚会信息发布互动平台
   gh_user: jarrekk
-  repo: Jalpc
+  repo: DevGroup137781709/Interactive_platform_LBS
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: 参加学校银杏黄比赛的时候自主命题的一个项目
 
 - name: LeetCode
   i18n: leetcode
