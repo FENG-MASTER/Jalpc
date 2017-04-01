@@ -83,6 +83,6 @@
     detail: 2017年1月
     i18n: company_a_date
   job:
-    detail: 独立开发
+    detail: 团队开发
     i18n: company_a_job
   icon: fa-plus-square
